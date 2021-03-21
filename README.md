@@ -77,7 +77,7 @@ h1{
 -	Person who designs products and sets out the blueprint for the process of product . A profession like this allows you to be flexible in any industry
 <li>Description of the Skills , qualification and experience required for the position </li>
 
-	<u>Responsibilities</u><br>
+<u>Responsibilities</u><br>
 -	Industry knowledge is key , to come up with new and unique products . <br>
 -	Using computer – aided design software to make products.<br>
 -	<u>Skills</u><br>
@@ -125,10 +125,9 @@ of being able to accomplish the work that a software/ product engineer can produ
    “ Hands on learner “ . It shows that reading and doing theory work is not the must effective way of learning for me .<br>
     For me reading books are not the same as doing / experiencing the content that I am studying . <br>
     <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=6&T=8">Link to my result</a><p>
-
     <br>
-    <br>
-    <br>
+   <br>
+   <br>
 <font size ='6'> Result of my Leadership Test </font> <br>
     <p> -<i>	Transformative leader</i> :  Transformative leadership style is very open to change and has a very open mind on achieving the end goal . <br>
       Transformative leaders are focused on the future of projects and strive for innovation that will help in success of the group . To me it shows that there is never one way to achieve a goal , <br>
